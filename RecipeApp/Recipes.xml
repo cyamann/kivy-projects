@@ -1,0 +1,27 @@
+<recipes>
+    <recipe name="Pasta Carbonara">
+        <ingredients>
+            <ingredient>Eggs</ingredient>
+            <ingredient>Pancetta</ingredient>
+            <ingredient>Parmesan cheese</ingredient>
+        </ingredients>
+        <instructions>
+            <instruction>cook for 15 minutes</instruction>
+            <instruction>leave in fridge for 15 minutes</instruction>
+        </instructions>
+        <image>assets/pasta-carbonara.jpeg</image>
+    </recipe>
+    <recipe name="sarma">
+        <ingredients>
+            <ingredient>yaprak</ingredient>
+            <ingredient>pirinç</ingredient>
+            <ingredient>salça</ingredient>
+        </ingredients>
+        <instructions>
+            <instruction>yaprağı haşla</instruction>
+            <instruction>salçayla pirinci kavur</instruction>
+            <instruction>yağrağın içine karışımı sar</instruction>
+        </instructions>
+        <image>assets/sarma.jpg</image>
+    </recipe>
+</recipes>
